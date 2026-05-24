@@ -1,10 +1,10 @@
-Hi, I’m Alfredo.  
+Hi, I'm Alfredo.
 
-I’m interested in electronic, firmware and software development.  
-I have worked for 19 years as a developer but in the last 5 years I have moved away from coding.  
-When I can, in my little free time, I like to write something just for fun.  
-If you want to know more about me visit my LinkedIn profile.  
+I'm interested in electronics, firmware, and software development.
 
+I worked as a developer for 19 years, but I've stepped away from programming for the last six.
+When I can, in my limited free time, I like to write something for fun.
+If you'd like to learn more about me, visit my LinkedIn profile.
 
 <!---
 montif1975/montif1975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
